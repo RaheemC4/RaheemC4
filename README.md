@@ -13,5 +13,6 @@ Building hands-on cybersecurity projects while working toward my first role in t
 | [Vulnerability Management Report](https://github.com/RaheemC4/cyber-project-vuln-management-report) | Multi-stage Nmap scan with a risk-ranked, prioritized remediation report |
 | [GRC Risk Assessment](https://github.com/RaheemC4/cyber-project-grc-risk-assessment) | Risk assessment for a fictional business, mapped to the NIST Cybersecurity Framework |
 | [AI Security Assessment](https://github.com/RaheemC4/cyber-project-ai-security-assessment) | Prompt injection testing against a locally-run LLM, including a successful bypass technique |
+| [Automated AI Red Teaming](https://github.com/RaheemC4/cyber-project-ai-redteam-automated) | 150 automated adversarial tests via Promptfoo, including diagnosing a false-positive clean result |
 
 Each project README includes the methodology used, the evidence gathered, and what the project demonstrates.
