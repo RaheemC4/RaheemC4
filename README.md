@@ -1,6 +1,6 @@
 # Hi, I'm Raheem
 
-Building hands-on cybersecurity projects while working toward my first role in the field. Below is my security project portfolio, each one built end-to-end with real evidence rather than write-ups alone.
+Building hands-on cybersecurity projects while working toward a role in the field. Below is my security project portfolio, each one built end-to-end with real evidence rather than write-ups alone.
 
 ## Security Projects
 
