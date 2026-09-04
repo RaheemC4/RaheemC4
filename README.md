@@ -7,6 +7,7 @@ Building hands-on cybersecurity projects while working toward a role in the fiel
 | Project | What it covers |
 |---|---|
 | [AD Detection Lab](https://github.com/RaheemC4/cyber-project-ad-detection-lab) | Active Directory + Splunk SIEM, simulated password spray attack, detection logic |
+| [ELK SIEM Detection Lab](https://github.com/RaheemC4/cyber-project-elk-siem-lab) | Elastic Stack SIEM with 5 MITRE ATT&CK-mapped detection rules, GeoIP enrichment pipeline, and a documented security-hardening fix |
 | [Phishing Investigation](https://github.com/RaheemC4/cyber-project-phishing-investigation) | Manual header analysis + a Python script to extract IOCs and risk-score real phishing samples |
 | [Incident Response Playbook](https://github.com/RaheemC4/cyber-project-ir-playbook-bec) | NIST-based BEC playbook, tested via tabletop exercise and revised based on the gaps it found |
 | [Cloud & IAM Assessment](https://github.com/RaheemC4/cyber-project-cloud-iam-assessment) | AWS misconfiguration assessment: public S3 exposure and over-permissioned IAM role |
